@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the Titanic Dataset
-df = pd.read_csv('titanic.csv')
+df = pd.read_csv('Titanic-Dataset.csv')
 
 # Explore basic info
 print(df.head())
